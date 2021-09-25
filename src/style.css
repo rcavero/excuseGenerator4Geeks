@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.container {
+  display: flex inline-block;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 300px;
+  padding-top: 100px;
+}
+p {
+  font-size: 50px;
+  font-weight: bold;
+}
